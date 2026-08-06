@@ -351,8 +351,7 @@ See the **LICENSE** file for more information.
 
 Passionate about Artificial Intelligence, Machine Learning, Data Science, Computer Vision, Python Development, and Generative AI.
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/arpitjain985/
 
 ---
 
