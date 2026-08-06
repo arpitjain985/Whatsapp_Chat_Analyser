@@ -27,18 +27,27 @@ This project analyzes chat statistics, user activity, timelines, emojis, links, 
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your dashboard here.
+## 📷 Dashboard
 
-Example:
+![Dashboard](Screenshots/Dashboard.png)
 
-```
-screenshots/
-├── dashboard.png
-├── statistics.png
-├── wordcloud.png
-├── emoji_analysis.png
-```
+---
 
+## 📊 Statistics
+
+![Monthly_Timeline](Screenshots/Montholy_Timeline.png)
+
+---
+
+## ☁️ Word Cloud
+
+![Word Cloud](Screenshots/WordCloud.png)
+
+---
+
+## 😀 Emoji Analysis
+
+![Emoji Analysis](Screenshots/Emoji_Analysis.png)
 ---
 
 # 🛠️ Tech Stack
