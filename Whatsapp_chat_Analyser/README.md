@@ -27,15 +27,13 @@ This project analyzes chat statistics, user activity, timelines, emojis, links, 
 
 ## 📷 Dashboard Preview
 
-## 📷 Dashboard
-
 ![Dashboard](Screenshots/Dashboard.png)
 
 ---
 
 ## 📊 Statistics
 
-![Monthly_Timeline](Screenshots/Montholy_Timeline.png)
+![Monthly_Timeline](Screenshots/Monthly_Timeline.png)
 
 ---
 
@@ -177,7 +175,9 @@ Displays
 
 ---
 
-## 📅 Monthly Timeline
+## 📊 Monthly Timeline
+
+![Monthly_Timeline](Screenshots/Monthly_Timeline.png)
 
 Visualizes message activity month-wise.
 
@@ -219,6 +219,8 @@ Shows
 ## ☁️ Word Cloud
 
 Generates a word cloud after removing stop words and common filler words.
+
+![Word Cloud](Screenshots/WordCloud.png)
 
 ---
 
