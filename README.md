@@ -27,7 +27,7 @@ This project analyzes chat statistics, user activity, timelines, emojis, links, 
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Whatsapp_Chat_Analyser/Screenshots/Dashboard.png)
 
 ---
 
